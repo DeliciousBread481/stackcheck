@@ -1,0 +1,13 @@
+{  
+  "required": true,  
+  "minVersion": "0.8",  
+  "package": "deliciousbread481.stackcheck.mixin",  
+  "compatibilityLevel": "JAVA_17",  
+  "mixins": [  
+    "MixinForgeHooks"  
+  ],  
+  "client": [],  
+  "injectors": {  
+    "defaultRequire": 1  
+  }  
+}
